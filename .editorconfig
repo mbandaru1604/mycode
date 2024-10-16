@@ -1,0 +1,6 @@
+﻿[*.cs]
+
+# CS9124: Parameter is captured into the state of the enclosing type and its value is also used to initialize a field, property, or event.
+dotnet_diagnostic.CS9124.severity = none
+dotnet_diagnostic.CS9107.severity = none
+dotnet_diagnostic.S6580.severity = none
